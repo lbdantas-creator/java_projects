@@ -1,0 +1,62 @@
+
+# Land Area and Price Calculator
+
+A simple Java application that calculates the total area of a piece of land and its total price based on its dimensions and price per square meter.
+
+## Features
+
+- Read the width of the land.
+- Read the length of the land.
+- Receive the price per square meter.
+- Calculate the total land area.
+- Calculate the total land price.
+
+## Technologies
+
+- Java
+- Java Scanner
+- Object-oriented programming fundamentals
+- Git and GitHub
+
+## How to Run
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/lbdantas-creator/java_projects.git
+   ```
+
+2. Open the project in Eclipse IDE.
+
+3. Run the `Main.java` file.
+
+4. Enter the requested information in the console.
+
+## Example
+
+Input:
+
+- Width: 20 meters
+- Length: 30 meters
+- Price per square meter: 200
+
+Output:
+
+- Land area: 600.00 square meters
+- Land price: R$ 120000.00
+
+## Learning Goals
+
+This project was developed as part of my programming studies to practice:
+
+- Variables and data types
+- User input with Scanner
+- Mathematical operations
+- Basic Java syntax
+- Console output
+
+## Author
+
+Ellen Libório
+
+[GitHub](https://github.com/lbdantas-creator)
